@@ -25,8 +25,11 @@ https://drive.google.com/file/d/1iLUb2GZJgFFaRNKP371ASQoyKnuLKjYN/view?usp=shari
 
 ###### NOTE: Please write your Full Name, Affiliation, and purpose while requesting this dataset.
 
+
+
 This work is based on following paper. Please cite this paper:
 ### Ashima Yadav and Dinesh Kumar Vishwakarma. "A unified framework of deep networks for genre classification using movie trailer." Applied Soft Computing 96 (2020): 106624 https://www.sciencedirect.com/science/article/pii/S1568494620305627
+
 
 # Dataset Contribution
 
