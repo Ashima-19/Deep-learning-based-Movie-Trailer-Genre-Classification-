@@ -14,6 +14,15 @@ Our work aims to analyze the relationship between the emotions elicited by the m
 
 • A novel idea in the field of affect-based video classification is devised for genre classification.
 
-### This work is based on following paper:
+# EmoGDB (Emotion-based Genre Detection for Bollywood) Dataset for movie genre classification
+
+This dataset contains 100 Bollywood movie trailers in six popular and distinct genres: Action, Comedy, Drama, Horror, Romance, Thriller. The entire dataset is labeled with six induced emotions: Anger, Fear, Happy, Neutral, Sad, Surprise corresponding to every movie genre. This dataset can be used for movie genre classification and emotion classification.
+You can request this dataset by clicking on the following links:
+
+https://drive.google.com/file/d/1TQrbGACWROBcrsA9Juw0HcOzdnq43kfo/view?usp=sharing
+https://drive.google.com/file/d/1iLUb2GZJgFFaRNKP371ASQoyKnuLKjYN/view?usp=sharing
+
+
+### This work is based on following paper. Please cite this paper:
 ### Ashima Yadav and Dinesh Kumar Vishwakarma. *"A unified framework of deep networks for genre classification using movie trailer."* Applied Soft Computing 96 (2020): 106624.
-(https://www.sciencedirect.com/science/article/pii/S1568494620305627)
+https://www.sciencedirect.com/science/article/pii/S1568494620305627
