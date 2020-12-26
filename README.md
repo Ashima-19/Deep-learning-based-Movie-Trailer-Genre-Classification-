@@ -39,8 +39,6 @@ The authors would like to thank the following people for their sincere contribut
 
 Her research area includes: Machine Learning, Sentimental Analysis. 
 
-Email Address: peyajm29@gmail.com
-
 LinkedIn : linkedin.com/in/jmpeya29/
 
 Research Gate : www.researchgate.net/profile/Peya_Mowar
@@ -48,8 +46,6 @@ Research Gate : www.researchgate.net/profile/Peya_Mowar
 **2. Mini Jain:** B.Tech in IT (Pursuing) from Delhi Technological University.
 
 Her research area includes: Machine Learning, Sentimental Analysis. 
-
-Email Address: mini.j2799@gmail.com. 
 
 LinkedIn : linkedin.com/in/mini-jain-b5022a172/
 
