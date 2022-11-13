@@ -35,7 +35,7 @@ This work is based on following paper. Please cite this paper:
 
 The authors would like to thank the following people for their sincere contribution in developing the EmoGDB dataset. The details of the contributors are:
 
-**1. Peya Monwar:**:  B.Tech in IT (Pursuing) from Delhi Technological University. 
+**1. Peya Mowar:**:  B.Tech in IT (Pursuing) from Delhi Technological University. 
 
 Her research area includes: Machine Learning, Sentimental Analysis. 
 
